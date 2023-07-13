@@ -15,14 +15,23 @@ We had to create a page in which we could find an HTML form, in which the user c
 
 ------------- SOME SCREEN SHOTS OF MY WEBSITE -------------
 
--> HOME PAGE 
+--> HOME PAGE
+<img width="1280" alt="accueil" src="https://github.com/ManonHallier/AP-dating-web-site/assets/119847929/f758906e-2736-4381-8acf-3e93f4a4f47b">
 
--> REGISTRATION PAGE
+--> REGISTRATION PAGE
+<img width="1280" alt="inscription" src="https://github.com/ManonHallier/AP-dating-web-site/assets/119847929/61c74bbe-dcc1-4cc5-8416-650cf2185d33">
 
--> PROFILE PAGE 
+--> LOADING PAGE LIKING RESTRITATION PAGE TO PROFILE PAGE
+<img width="1280" alt="loading-page" src="https://github.com/ManonHallier/AP-dating-web-site/assets/119847929/9379ee3f-417f-4e2a-9224-577704111b9c">
 
--> LOADING PAGE LINKING REGISTRATION PAGE TO PROFILE VIEW PAGE
+--> PROFILE PAGE 
+<img width="1280" alt="profil" src="https://github.com/ManonHallier/AP-dating-web-site/assets/119847929/6a012988-2f56-4522-b9fe-9500f105f920">
 
--> ABOUT US PAGE
+--> ABOUT US 
+<img width="1280" alt="aboutus" src="https://github.com/ManonHallier/AP-dating-web-site/assets/119847929/9bfbd9d0-596a-4c62-80eb-92400d1778c9">
 
--> FICTIOUS LEGAL NOTICES PAGE
+-->FALSE LEGAL NOTICES
+<img width="1280" alt="mentions-legales" src="https://github.com/ManonHallier/AP-dating-web-site/assets/119847929/dbcca6c8-1251-4fdf-ba4a-914d337e856b">
+
+--> DISTRIBUTION OF TASKS
+<img width="1280" alt="Capture d’écran 2023-07-13 à 17 59 37" src="https://github.com/ManonHallier/AP-dating-web-site/assets/119847929/3ffcf610-4f9f-4033-afa4-efb28c3ab1ad">
